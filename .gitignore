@@ -99,3 +99,9 @@ RNTester/Pods/*
 # Visual studio
 .vscode
 .vs
+
+/.yarn/*
+!/.yarn/patches
+!/.yarn/plugins
+!/.yarn/releases
+!/.yarn/versions
